@@ -1,2 +1,2 @@
 <?php
-echo 'This is hello world project.';
+echo 'This is hello world project for test.';
