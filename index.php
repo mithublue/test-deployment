@@ -1,1 +1,2 @@
-This is hello world project.
+<?php
+echo 'This is hello world project.';
